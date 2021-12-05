@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 30px;
+}
+*{
+  background-color:black;
+  text-align: center;
+  padding: 25px;
+}
+h1{
+  color: white;
+  background-color: brown;
+  padding: 5px;
+  border-style:double;
+  border-radius: 20px;
+}
+h1:hover{
+background-color:darkgoldenrod;
+}
+button{
+  color: aliceblue;
+  background-color: brown;
+  box-shadow: rgb(0, 0, 0) ;
+  border-radius: 10px;
+  border-color: cornsilk;
+  border-style: dotted;
+  font-style: italic;
+  
+}
+button:hover{
+background-color: darkgreen;
+}
